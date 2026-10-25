@@ -1,0 +1,1 @@
+{ "name": "shizuku-status", "version": "0.1.0", "description": "しずくちゃんが作業の様子をアニメで見せてくれるパネル", "types": "./types/index.d.ts" }
