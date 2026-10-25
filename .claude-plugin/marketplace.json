@@ -1,0 +1,5 @@
+{
+  "name": "shizuku-chan",
+  "owner": { "name": "隆斉" },
+  "plugins": [{ "name": "shizuku-status", "source": "./" }]
+}
