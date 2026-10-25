@@ -19,5 +19,3 @@ claude plugin install shizuku-status --marketplace curren320-cpu/shizuku-chan
 ```
 
 デスクトップアプリでは、入力欄の横の + → Plugins → Add marketplace に `curren320-cpu/shizuku-chan` を入れ、Add plugin を押します。
-
-このリポジトリは非公開です。インストールするパソコンには GitHub のログイン情報（`gh auth login` のあと `gh auth setup-git` など）が必要です。
